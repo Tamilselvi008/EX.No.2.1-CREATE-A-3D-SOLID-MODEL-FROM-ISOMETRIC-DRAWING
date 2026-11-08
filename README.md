@@ -22,20 +22,22 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 1. Select **Create Sketch**.
 2. Select the **XY plane**.
-3. Open the **Rectangle** dropdown and select **Center Rectangle**.
-4. Click the origin to place the center of the rectangle.
-5. Move the cursor outward and click to create the rectangle.
-6. Use **Sketch Dimension**:
+3. <img width="1920" height="1028" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/0d570d37-261a-4228-8305-80f67eea6c2e" />
+
+4. Open the **Rectangle** dropdown and select **Center Rectangle**.
+5. Click the origin to place the center of the rectangle.
+6. Move the cursor outward and click to create the rectangle.
+7. Use **Sketch Dimension**:
    - Select one horizontal edge and enter **100 mm**.
    - Select one vertical edge and enter **50 mm**.
    - <img width="1920" height="1011" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/3c18ae01-0846-4fe3-b8a5-07623003e872" />
 
-7. Check that the rectangle is centered on the origin.
-8. Then choose the line option to draw the upper box portion.
-9. <img width="1920" height="1024" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/9e799e95-f571-4721-8f6f-93bd3d06be4d" />
+8. Check that the rectangle is centered on the origin.
+9. Then choose the line option to draw the upper box portion.
+10. <img width="1920" height="1024" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/9e799e95-f571-4721-8f6f-93bd3d06be4d" />
 
-10. Click **Finish Sketch**.
-11. Select **Solid > Create > Extrude**.
+11. Click **Finish Sketch**.
+12. Select **Solid > Create > Extrude**.
 14. Set **Operation** to **New Body**.
 15. Click **OK**.
 16. <img width="1920" height="1024" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/1d8c3a94-31b5-48ad-801e-9f22b1e43b01" />
